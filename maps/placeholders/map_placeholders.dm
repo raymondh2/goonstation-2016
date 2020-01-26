@@ -386,8 +386,8 @@
 /obj/machinery/door/airlock/pyro/glass/windoor
 	name = "windoor"
 	desc = "just a placeholder for now, ignore the bad sprite"
-	icon_state = "windoor_closed"
 	icon = 'maps/placeholders/map_placeholders.dmi'
+	icon_state = "windoor"
 
 
 /obj/item/storage/wall/clothingrack
