@@ -252,7 +252,7 @@
 	anchored = 1
 	opacity = 0
 
-	var/datum/particleSystem/barrelSmoke/particles
+	var/datum/particleSystem/barrelSmoke/particlesb
 	var/datum/light/light
 
 	New()
